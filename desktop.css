@@ -44,6 +44,10 @@ body {
     color: #737373;
 }
 
+.card-body h2:hover{
+    color: #F6D050;
+}
+
 .card-footer{
     width: 60%;
     display: flex;
